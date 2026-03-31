@@ -61,7 +61,7 @@ ai-timetable-generator/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/ai-timetable-generator.git
+git clone https://github.com/tanuj07-sau/Vityarthi_AI-ML/blob/main/code.py
 cd ai-timetable-generator
 ```
 
